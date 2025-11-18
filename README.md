@@ -14,8 +14,6 @@ gs2-sers-eficiencia-energetica-escritorio/
 │   ├── consumo_diario.png
 │   └── economia_estimativa.png
 ├── README.md
-└── relatorio/
-    └── relatorio_gs2_sers.pdf
 ```
 
 ## Descrição
